@@ -1,1 +1,1 @@
-Hello Welcome to git tutorial
+Hello Welcome to git tutorial. We will discuss how about push later
